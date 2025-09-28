@@ -3,7 +3,7 @@
 💻 Frontend Developer | Data Visualization & AI Integration Specialist  
 
 📍 Ibadan, Oyo State, Nigeria (UTC+1)  
-📧 bolajiibrahim2003@gmail.com  
+📧 olaniyiiibrahim2003@gmail.com  
 🔗 [GitHub](https://github.com/Olaniyiibrahim) 
 
 
