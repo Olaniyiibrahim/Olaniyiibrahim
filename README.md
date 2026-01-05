@@ -3,7 +3,7 @@
 💻 Frontend Developer(Mobile & Web)| JavaScript • TypeScript • System Design • Data Visualization   
 
 📍 Worldwide 📍 Open to work 📍 Open to relocation
-📧 olaniyiiibrahim2003@gmail.com  
+📧 olaniyiiibrahim2006@gmail.com  
 🔗 [GitHub](https://github.com/Olaniyiibrahim) 
 
 
