@@ -1,8 +1,8 @@
 👋 Hi, I'm Olaniyi Ibrahim Bolaji  
 
-💻 Frontend Developer(Mobile & Web)| JavaScript • TypeScript • System Design • Data Visualization   
+💻 Frontend Developer(Mobile & Web) | JavaScript • TypeScript • System Design • Data Visualization   
 
-📍 Worldwide 📍 Open to work 📍 Open to relocation
+📍 Worldwide 🌍 Open to Remote & Relocation
 📧 olaniyiiibrahim2006@gmail.com  
 🔗 [GitHub](https://github.com/Olaniyiibrahim) 
 
