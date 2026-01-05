@@ -1,8 +1,8 @@
 👋 Hi, I'm Olaniyi Ibrahim Bolaji  
 
-💻 Frontend Developer | Data Visualization & AI Integration Specialist  
+💻 Frontend Developer(Mobile & Web)| JavaScript • TypeScript • System Design • Data Visualization   
 
-📍 Ibadan, Oyo State, Nigeria (UTC+1)  
+📍 Worldwide 📍 Open to work 📍 Open to relocation
 📧 olaniyiiibrahim2003@gmail.com  
 🔗 [GitHub](https://github.com/Olaniyiibrahim) 
 
@@ -74,9 +74,9 @@ I specialize in turning **complex datasets** into **intuitive dashboards** and *
 - Data-focused mindset → accuracy, reliability & performance in dashboards  
 - **Visualization expertise** → charts, comparison tools, and insights  
 - **Collaboration** → strong communication with backend engineers & product teams  
-- **User-first approach** → intuitive dashboards and optimized UX  
+- User-first approach** → intuitive dashboards and optimized UX  
 
----
 
-📫 **Let’s Connect!**  
+
+📫 Let’s Connect!
 If you’re looking for a frontend engineer passionate about **data visualization, analytics, and AI-driven interfaces**, I’d love to collaborate!  
