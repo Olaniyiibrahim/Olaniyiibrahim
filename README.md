@@ -1,14 +1,15 @@
 # Olaniyi Ibrahim Bolaji
 
-Frontend Engineer — Web & Mobile
+**Frontend Engineer — Web & Mobile**  
 *Building performant, scalable interfaces that users love and businesses trust.*
 
 [![Email](https://img.shields.io/badge/olaniyiiibrahim2006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:olaniyiiibrahim2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/Olaniyiibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olaniyiibrahim)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Remote%20%26%20Relocation-0A66C2?style=flat-square&logo=briefcase&logoColor=white)
 
+---
 
-About
+## About
 
 Frontend Engineer with 2+ years of production experience shipping cross-platform applications across web and mobile. I architect component systems, integrate third-party APIs, and translate complex data into interfaces that are fast, accessible, and maintainable.
 
@@ -16,44 +17,48 @@ My work spans consumer mobile apps built with **React Native**, data-intensive d
 
 Currently focused on: cross-platform mobile development, real-time data systems, and AI-enhanced user workflows.
 
-
+---
 
 ## Core Competencies
 
-
+```
 React · React Native · Next.js · TypeScript · JavaScript (ES2024)
 Tailwind CSS · NativeWind · SCSS · Redux Toolkit
 Supabase · Firebase · REST APIs · Paystack · Expo Router
 Data Visualization · System Design · Performance Optimization · API Integration
+```
 
+---
 
-Selected Work
+## Selected Work
 
-
-React Native Mobile App (Active)
+### React Native Mobile App *(Active)*
 Cross-platform application built with **Expo Router** and **TypeScript**, featuring tab-based navigation (Home, Wallet, Tasks, Profile), a full earn/rewards loop with social task integration, NativeWind styling, and a modular component architecture designed for scale.
 
 `React Native` `Expo Router` `TypeScript` `NativeWind` `Redux Toolkit`
 
-
+---
 
 ### Real Estate Management Platform
 End-to-end property platform with role-based dashboards for agents and customers. Integrated **Paystack** for secure transactions, **NIN Verification API** for KYC compliance, and **Supabase** for real-time updates. Includes custom analytics dashboards with property performance metrics.
 
 `Next.js` `TypeScript` `Supabase` `Paystack` `Custom Charts`
 
-
+---
 
 ### Afridol — Social Media Platform *(Freelance)*
 Feature-rich social platform integrating the **Facebook Graph API** and additional social APIs. Delivered advanced media upload with compression and optimization, role-based access control via Redux, and engagement-focused UX improvements that increased user engagement by **40%**.
 
 `React` `Redux` `Facebook Graph API` `TypeScript`
 
+---
 
-Codetratives — Enterprise Management System
+### Codetratives — Enterprise Management System
 Full-featured admin platform for employee and fleet management. Built with a scalable CRUD architecture, real-time group chat with persistent message history, scheduling and attendance tracking, and fleet analytics dashboards.
 
 `React` `TypeScript` `Tailwind CSS` `Redux Toolkit`
+
+---
 
 ## Tech Stack
 
@@ -71,8 +76,9 @@ Full-featured admin platform for employee and fleet management. Built with a sca
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Paystack](https://img.shields.io/badge/Paystack-0A0A0A?style=for-the-badge&logo=paystack&logoColor=00C3F7)
 
+---
 
- GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olaniyiibrahim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaniyiibrahim&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
